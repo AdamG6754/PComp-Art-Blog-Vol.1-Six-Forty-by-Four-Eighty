@@ -5,4 +5,5 @@ Regardless of distance from each other (assuming both pixels are within reach), 
 With no wires, electrical signals for intra-body communication would be difficult, but the human body (mostly saltwater) makes for an excellent conductor for low-voltage electrical signals. 
 When a pixel is held down until it blinks, that is an indicator that the pixel is in "copy" mode and the pixel is sending an electrical signal through your body from its sensor turned emitter, touching another pixel allows the signal from the first pixel to reach the sensor of the second pixel, prompting it to change color.
 
+Photos and videos can be found here:
 https://designintelligence.mit.edu/work/sixforty
